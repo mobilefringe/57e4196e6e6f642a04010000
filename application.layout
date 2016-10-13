@@ -70,8 +70,8 @@
                 <li><a href="/dine">DINE</a></li>
                 <li><a href="/location">LOCATION</a></li>
                 <li><a href="#" id="mobile_dd">CENTER INFORMATION</a></li>
-                <li class="hidden_now mobile_menu_dd"><a href="/pages/pico-services">SERVICES</a></li>
-                <li class="hidden_now mobile_menu_dd"><a href="/pages/pico-contact-us">CONTACT</a></li>
+                <li class="hidden_now mobile_menu_dd"><a href="/pages/miramesa-services">SERVICES</a></li>
+                <li class="hidden_now mobile_menu_dd"><a href="/pages/miramesa-contact-us">CONTACT</a></li>
             </ul>
         </div>
         <div class="row">
@@ -108,8 +108,8 @@
                     <div class="dropdown">
                         <a href="#" type="button" id="dropdownMenuCenterInfo" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Center Information</a>
                         <ul class="dropdown-menu center_info_dd" aria-labelledby="dropdownMenuCenterInfo">
-                            <li><a href="/pages/pico-services">SERVICES</a></li>
-                            <li><a href="/pages/pico-contact-us">CONTACT</a></li>
+                            <li><a href="/pages/miramesa-services">SERVICES</a></li>
+                            <li><a href="/pages/miramesa-contact-us	">CONTACT</a></li>
                         </ul>
                     </div>
                     <div class="clearfix"></div>
@@ -197,7 +197,7 @@
                         10604 – 10789 Westview Parkway, San Diego, CA 92126
                     </p>
                     <p class="footer_text">
-                <a href="tel:562-938-1722.">562-938-1722.</a> | <a href="/pages/pico-privacy-policy">Privacy Policy | </a> <a href="/jobs">Jobs</a> | Vestar Property
+                <a href="tel:562-938-1722.">562-938-1722.</a> | <a href="/pages/miramesa-privacy-policy">Privacy Policy | </a> <a href="/jobs">Jobs</a> | Vestar Property
             </p>
                 </div>
             </div>
