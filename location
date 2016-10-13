@@ -1,0 +1,46 @@
+<div class="header_banner location_banner">
+    <div class="main_container">
+        <h4 class="header_banner_heading">Location</h4>
+    </div>
+</div>
+<div class="main_container mobile_padding">
+    <div class="details_row">
+        <div class="details_col_3">
+            <p class="colored_link" style="">Office Phone Number</p>
+            <a class="side_link" href="tel:562-938-1722.">562-938-1722</a>
+            <p class="colored_link" style="">Address</p>
+            <p class="side_link">
+                10604 – 10789 Westview Parkway, San Diego, CA 92126
+            </p>
+            <a class="main_btn block animated_btn" href="https://www.google.ca/maps/place/Mira+Mesa+Market+Center/@32.9167719,-117.1222255,17z/data=!4m13!1m7!3m6!1s0x80dbf9194e4a3911:0x50d8905242cc6e22!2s10789+Westview+Pkwy,+San+Diego,+CA+92126,+USA!3b1!8m2!3d32.9167719!4d-117.1200368!3m4!1s0x0:0x2efc6305b3fc9feb!8m2!3d32.9156005!4d-117.1198569" target="_blank" >Driving Direction</a>
+        </div>
+        <div class="details_col_9" id="event_details_container">
+            <div class="map_container">
+                <div class="map_overlay" onClick="style.pointerEvents='none'"></div>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3349.2961910480653!2d-117.12222548481441!3d32.916771880930035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2efc6305b3fc9feb!2sMira+Mesa+Market+Center!5e0!3m2!1sen!2sca!4v1476384422277" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+            </div>
+            <div id="mm_page_content" class="details_desc"></div>
+        </div>
+    </div>
+</div>
+
+
+<script>
+    $(document).ready(function(e){
+        init(e);
+        loadMallDataCached(renderPage);
+    })
+    
+    function renderPage(){
+        prefix = get_prefix();
+        var pages_json = prefix+ "/pages/pico-location.json"
+        $.getJSON(pages_json).done(function(data) {
+            $('#mm_page_content').html(data.body);
+        }).fail(function(jqXHR) {
+            if (jqXHR.status == 404) {
+                $("#404_msg").fadeIn("fast");
+            }
+        }); 
+        show_content();
+    }
+</script>
