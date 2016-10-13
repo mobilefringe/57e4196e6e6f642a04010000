@@ -1,0 +1,55 @@
+$layout_color: #64a7cc;
+$animation_color: #C3D346;
+
+.main_btn, .back_to_home, .copyright_footer, .newsletter_btn, .flex-control-paging li a.flex-active, .store_nav a.active_store_nav:after, .store_nav a:hover:after, .store_initial, .details_header, .back_to_list, .back_to_list:hover, .back_to_list:focus, .mobile_menu_dd, #mm_page_content h2{
+    background: $layout_color;
+}
+
+.newsletter_control:focus{
+    border-color: $layout_color;
+}
+
+.view_more_btn, .colored_link, .colored_link a, #mm_page_content h1, .mobile_menu li a{
+    color: $layout_color;
+}
+
+.animated_btn:before{
+    background: $animation_color;
+}
+
+.stores_banner{
+    background-image: url(http://assets.codecloudapp.com/sites/57e4196e6e6f642a04010000/image/jpeg/1476244396000/Directory.jpg);
+}
+
+.events_banner{
+    background-image: url(http://assets.codecloudapp.com/sites/57e4196e6e6f642a04010000/image/jpeg/1476245169000/Events.jpg);
+}
+
+.dine_banner{
+    background-image: url(http://assets.codecloudapp.com/sites/57e4196e6e6f642a04010000/image/jpeg/1476245778000/Dine.jpg);
+}
+
+.jobs_banner{
+    background-image: url(http://assets.codecloudapp.com/sites/57e4196e6e6f642a04010000/image/jpeg/1476246987000/Contact.jpg);
+}
+
+.location_banner{
+    background-image: url(http://assets.codecloudapp.com/sites/57e4196e6e6f642a04010000/image/jpeg/1476245626000/Location.jpg;
+}
+
+.miramesa-services{
+    background-image: url(http://assets.codecloudapp.com/sites/57e4196e6e6f642a04010000/image/jpeg/1463772950000/prtc_1920x150_banner_events.jpg);
+}
+
+.miramesa-contact-us{
+    background-image: url(http://assets.codecloudapp.com/sites/57e4196e6e6f642a04010000/image/jpeg/1463772962000/prtc_1920x150_banner_directory.jpg);
+}
+.miramesa-privacy-policy{
+    background-image: url(http://assets.codecloudapp.com/sites/57e4196e6e6f642a04010000/image/jpeg/1463772962000/prtc_1920x150_banner_directory.jpg);
+}
+
+
+
+
+
+
