@@ -38,8 +38,8 @@
                 <ul id="category_container" class="dropdown-menu" aria-labelledby="cat_dd">
                     <li href="#" class="show_all_stores">All</li>
                     
-            <li class="show_cat_stores" data-id="4257">Restaurant - Casual</li>
-            <li class="show_cat_stores" data-id="4259">Restaurants - Full Service</li>
+            <li class="show_cat_stores" data-id="4371">Restaurant - Casual</li>
+            <li class="show_cat_stores" data-id="4370">Restaurants - Full Service</li>
            
                 </ul>
             </div>
