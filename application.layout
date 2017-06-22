@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="icon" type="image/png" href="http://assets.codecloudapp.com/sites/594c08596e6f646486290300/image/png/1462909257000/favicon_vestar.png">
+    <link rel="icon" type="image/png" href="//assets.codecloudapp.com/sites/594c08596e6f646486290300/image/png/1462909257000/favicon_vestar.png">
     <!--Update each web pages SEO to set values for {{meta_title}}, {{meta_description}}, {{meta_keywords}} -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -11,9 +11,9 @@
     <meta name="author" content="">
     <title>{{meta_title}}</title>
     
-    <link rel="apple-touch-icon" href="http://assets.codecloudapp.com/sites/594c08596e6f646486290300/image/jpeg/1463758174000/icon57-1.jpg" />
-    <link rel="apple-touch-icon" sizes="72x72" href="http://assets.codecloudapp.com/sites/594c08596e6f646486290300/image/jpeg/1463758180000/icon72-1.jpg" />
-    <link rel="apple-touch-icon" sizes="114x114" href="http://assets.codecloudapp.com/sites/594c08596e6f646486290300/image/jpeg/1463758183000/icon114-1.jpg" />
+    <link rel="apple-touch-icon" href="//assets.codecloudapp.com/sites/594c08596e6f646486290300/image/jpeg/1463758174000/icon57-1.jpg" />
+    <link rel="apple-touch-icon" sizes="72x72" href="//assets.codecloudapp.com/sites/594c08596e6f646486290300/image/jpeg/1463758180000/icon72-1.jpg" />
+    <link rel="apple-touch-icon" sizes="114x114" href="//assets.codecloudapp.com/sites/594c08596e6f646486290300/image/jpeg/1463758183000/icon114-1.jpg" />
     
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
@@ -55,14 +55,14 @@
     
     <!-- Site data -->
     <script>
-        setEndPoint('http://miramesa.mallmaverick.com/api/v2/miramesa/all.json');
+        setEndPoint('//miramesa.mallmaverick.com/api/v2/miramesa/all.json');
     </script>
 </head>
 
 <body>
     <header class="main_container main_nav">
         <div class="position_relative">
-            <img src="http://assets.codecloudapp.com/sites/594c08596e6f646486290300/image/png/1463501219000/open_menu.png" class="open_menu visible_phone" alt="open menu">
+            <img src="//assets.codecloudapp.com/sites/594c08596e6f646486290300/image/png/1463501219000/open_menu.png" class="open_menu visible_phone" alt="open menu">
             <ul class="mobile_menu visible_phone">
                 <li><a href="/stores">DIRECTORY</a></li>
                 <li><a href="/events-and-promotions">EVENTS & PROMOTIONS</a></li>
@@ -75,7 +75,7 @@
         </div>
         <div class="row">
             <div class="logo_container">
-                <a href="/"><img src="http://assets.codecloudapp.com/sites/594c08596e6f646486290300/image/png/1476385606000/miramesalogo.png" class="main_logo" /></a>
+                <a href="/"><img src="//assets.codecloudapp.com/sites/594c08596e6f646486290300/image/png/1476385606000/miramesalogo.png" class="main_logo" /></a>
             </div>
             <div class="nav_container hidden_phone">
                 <div class="social_links">
@@ -124,7 +124,7 @@
         <div class="footer_row">
             <div class="footer_col">
                 <h5 class="heading">SHOPPING CENTER HOURS</h5>
-                <img src="http://assets.codecloudapp.com/sites/594c08596e6f646486290300/image/png/1463686637000/clock.png" class="hours_clock" alt="hours clock">
+                <img src="//assets.codecloudapp.com/sites/594c08596e6f646486290300/image/png/1463686637000/clock.png" class="hours_clock" alt="hours clock">
                 <div class="hours_footer" id="hours_container">
                     <script id="hours_template" type="x-tmpl-mustache/text">
                         <p>
@@ -142,7 +142,7 @@
             <div class="footer_col">
                 <h5 class="heading">NEWSLETTER SUBSCRIPTION</h5>
                 <div class="newsletter_div">
-                    <form action="http://mobilefringe.createsend.com/t/d/s/bzujh/" method="post" id="newsletter_form">
+                    <form action="https://mobilefringe.createsend.com/t/d/s/bzujh/" method="post" id="newsletter_form">
                         <input name="cm-bzujh-bzujh" type="text" placeholder="Subscribe to Newsletter" class="newsletter_control" required />
                         <button class="newsletter_btn animated_btn">Subscribe</button>
                         <label class="newsletter_label">
@@ -173,10 +173,10 @@
             <p class="footer_text">
                 <a href="tel:619-223-9400">619-223-9400</a> | <a href="/pages/miramesa-privacy-policy">Privacy Policy | </a> <a href="/jobs">Jobs</a> | Vestar
             </p>
-          <a href="http://www.vestar.com/" target="_blank">
-                <img src="http://assets.codecloudapp.com/sites/574609776e6f645e19040000/image/png/1463672149000/vestar_logo_footer.png" class="vestar_logo" alt=""> </a>
+          <a href="//www.vestar.com/" target="_blank">
+                <img src="//assets.codecloudapp.com/sites/574609776e6f645e19040000/image/png/1463672149000/vestar_logo_footer.png" class="vestar_logo" alt=""> </a>
             <p class="footer_text">
-                Powered by <a href="http://mallmaverick.com" target="_blank">Mall Maverick</a>
+                Powered by <a href="//mallmaverick.com" target="_blank">Mall Maverick</a>
             </p>
         </div>
         <div class="row hidden_phone">
@@ -185,12 +185,12 @@
                     © Copyright 2016 2016 Mira Mesa Market 
                 </p>
                 <p class="footer_text">
-                    Powered by <a href="http://mallmaverick.com" target="_blank">Mall Maverick</a>
+                    Powered by <a href="//mallmaverick.com" target="_blank">Mall Maverick</a>
                 </p>
             </div>
             <div class="col-md-6 text-right ">
-                 <a href="http://www.vestar.com/" target="_blank">
-                <img src="http://assets.codecloudapp.com/sites/574609776e6f645e19040000/image/png/1463672149000/vestar_logo_footer.png" class="vestar_logo" alt=""> </a>
+                 <a href="//www.vestar.com/" target="_blank">
+                <img src="//assets.codecloudapp.com/sites/574609776e6f645e19040000/image/png/1463672149000/vestar_logo_footer.png" class="vestar_logo" alt=""> </a>
                 <div>
                     <p class="footer_text">
                         10604 – 10789 Westview Parkway, San Diego, CA 92126
