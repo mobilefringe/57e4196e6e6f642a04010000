@@ -55,7 +55,7 @@
     
     <!-- Site data -->
     <script>
-        setEndPoint('//miramesa.mallmaverick.com/api/v2/miramesa/all.json');
+        setEndPoint('//miramesa.mallmaverick.com/api/v3/miramesa/all.json');
     </script>
 </head>
 
