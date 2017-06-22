@@ -92,7 +92,6 @@
             $('#events_header').find('i').toggleClass('fa-chevron-down fa-chevron-up');
         }
         
-        
         var promos = getPromotionsList().sortBy(function(o){ return o.start_date });
         var published_promos = [];
         $.each( promos , function( key, val ){
