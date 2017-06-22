@@ -242,7 +242,7 @@ function drop_pin(id, map){
     
     map.setMarks([{ xy: [coords["x"] - 15 + x_offset, coords["y"] - 55 + y_offset],
               attrs: {
-                        src:  'http://assets.codecloudapp.com/sites/570d369d6e6f643d60030000/image/png/1463000912000/pin2.png'     // image for marker
+                        src: '//codecloud.cdn.speedyrails.net/sites/570d369d6e6f643d60030000/image/png/1463000912000/pin2.png'     // image for marker
                       }
         }
         ])
@@ -322,7 +322,7 @@ function show_png_pin(trigger, map){
 					<div class="text">\
 					<strong>'+ name+ '</strong>\
 				</div>\
-				<img src="http://assets.codecloudapp.com/sites/54cfab316e6f6433ad020000/530d3a9b7bc13ce4a511089c23463f99/10dundas_pin.png" width="40px" height="59px" alt="marker" />\
+				<img src="//codecloud.cdn.speedyrails.net/sites/54cfab316e6f6433ad020000/530d3a9b7bc13ce4a511089c23463f99/10dundas_pin.png" width="40px" height="59px" alt="marker" />\
 				</div>\
 			</div>'
 			]
