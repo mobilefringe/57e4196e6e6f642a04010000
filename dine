@@ -3,7 +3,6 @@
         <h4 class="header_banner_heading">Dining</h4>
     </div>
 </div>
-
 <div class="main_container mobile_padding">
     <div class="visible_phone position_relative">
         <a class="mobile_header" href="/map">Center Map</a>
@@ -14,8 +13,6 @@
             <li href="#" class="show_all_stores">All</li>
             <li class="show_cat_stores" data-id="4371">Restaurant - Casual</li>
             <li class="show_cat_stores" data-id="4370">Restaurants - Full Service</li>
-        
-          
         </ul>
     </div>
     <div class="store_nav hidden_phone">
@@ -37,10 +34,8 @@
                 </a>
                 <ul id="category_container" class="dropdown-menu" aria-labelledby="cat_dd">
                     <li href="#" class="show_all_stores">All</li>
-                    
-            <li class="show_cat_stores" data-id="4371">Restaurant - Casual</li>
-            <li class="show_cat_stores" data-id="4370">Restaurants - Full Service</li>
-           
+                    <li class="show_cat_stores" data-id="4371">Restaurant - Casual</li>
+                    <li class="show_cat_stores" data-id="4370">Restaurants - Full Service</li>
                 </ul>
             </div>
         </div>
@@ -109,7 +104,7 @@
         })
         
         renderStoreList('#store_list_container','#store_list_template', newarr.sortBy(function(o){ return o.name }), "stores", "A", "M");
-        renderStoreList('#store_list_container2','#store_list_template2', newarr.sortBy(function(o){ return o.name }), "stores","M", "Z" );
+        renderStoreList('#store_list_container2','#store_list_template2', newarr.sortBy(function(o){ return o.name }), "stores","N", "Z" );
         // var categories = getStoreCategories();
         // renderGeneral('#category_container, #category_container2', '#category_template', categories);
         show_content();
