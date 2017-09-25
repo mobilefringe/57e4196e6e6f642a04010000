@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<meta name="google-site-verification" content="H0MNFOfIK6GkmowyltC_ZWgBvOjhY3eaFiajDv29yYc" />
     <link rel="icon" type="image/png" href="//codecloud.cdn.speedyrails.net/sites/594c08596e6f646486290300/image/png/1462909257000/favicon_vestar.png">
     <!--Update each web pages SEO to set values for {{meta_title}}, {{meta_description}}, {{meta_keywords}} -->
     <meta charset="utf-8">
@@ -61,6 +62,7 @@
 </head>
 
 <body>
+
     <header class="main_container main_nav">
         <div class="position_relative">
             <img src="//codecloud.cdn.speedyrails.net/sites/594c08596e6f646486290300/image/png/1463501219000/open_menu.png" class="open_menu visible_phone" alt="open menu">
