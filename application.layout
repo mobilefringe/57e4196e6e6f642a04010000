@@ -168,7 +168,7 @@
     <section class="copyright_footer main_container">
         <div class="text-center visible_phone">
             <p class="footer_text">
-                © Copyright 2016 Mira Mesa Market 
+                © Copyright <span id="current_year" class="current_year"></span> Mira Mesa Market 
             </p>
             <p class="footer_text">
                 10604 – 10789 Westview Parkway, San Diego, CA 92126
@@ -185,7 +185,7 @@
         <div class="row hidden_phone">
             <div class="col-md-6">
                 <p class="footer_text">
-                    © Copyright 2016 2016 Mira Mesa Market 
+                    © Copyright <span id="current_year" class="current_year"></span> Mira Mesa Market 
                 </p>
                 <p class="footer_text">
                     Powered by <a href="//mallmaverick.com" target="_blank">Mall Maverick</a>
