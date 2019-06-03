@@ -85,18 +85,18 @@
             </div>
             <div class="nav_container hidden_phone">
                 <div class="social_links">
-                    <!--<a href="https://www.facebook.com/ShopPico" target="_blank">-->
-                    <!--    <span id="social_facebook"></span>-->
-                    <!--</a>-->
+                    <a href="https://www.facebook.com/miramesamarket/" target="_blank">
+                        <span id="social_facebook"></span>
+                    </a>
                     <!--<a href="https://twitter.com/shoppico" target="_blank">-->
                     <!--    <span id="social_twitter"></span>-->
                     <!--</a>-->
                     <!--<a href="#" target="_blank">-->
                     <!--    <span id="social_pinterest"></span>-->
                     <!--</a>-->
-                    <!--<a href="https://www.instagram.com/PicoRiveraTowneCenter/" target="_blank">-->
-                    <!--    <span id="social_insta"></span>-->
-                    <!--</a>-->
+                    <a href="https://www.instagram.com/miramesamarket//" target="_blank">
+                        <span id="social_insta"></span>
+                    </a>
                     <!--<a href="#" target="_blank">-->
                     <!--    <span id="social_yt"></span>-->
                     <!--</a>-->
